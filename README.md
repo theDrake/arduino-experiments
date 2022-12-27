@@ -1,2 +1,2 @@
 # arduino-experiments
-A repository for my experiments with Arduino microcontroller boards.
+A repository for some of my experiments with [Arduino](https://en.wikipedia.org/wiki/Arduino) microcontrollers.
